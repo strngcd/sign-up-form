@@ -295,4 +295,10 @@ hr {
   background-color: #333; 
   margin: 20px 0;    
 }
+input:focus {
+  border-color: #7C3AED; 
+  outline: none;         
+  box-shadow: 0 0 5px #0f172a; 
+}
+
 
