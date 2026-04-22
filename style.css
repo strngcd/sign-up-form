@@ -145,6 +145,10 @@ h2 {
     border-radius: 12px;
     border: 1px solid white;
     margin-bottom: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
 }
 #google-btn:hover {
     background-color: #7C3AED;
@@ -152,6 +156,10 @@ h2 {
     color: white;
     font-weight: 600;
 
+}
+#google {
+    width: 36px;
+    height: 36px;
 }
 form {
     margin-top: 1rem;
